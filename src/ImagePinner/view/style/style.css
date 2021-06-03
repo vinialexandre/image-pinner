@@ -1,0 +1,8 @@
+.table-imagepinner .MuiInput-underline:after{
+    border-bottom: 2px solid #10534c !important;
+}
+
+.default-btn-custom {
+    color: #fff !important;
+    background-color: #10534c !important;
+  }
